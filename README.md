@@ -40,12 +40,4 @@ The dashboard provides key insights into coffee sales with interactive charts an
 3. Apply filters to analyze specific trends.
 4. Explore individual sheets (`Top5Customers`, `CountryBarChart`, `TotalSales`) for detailed breakdowns.
 
-## 📥 Installation
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/CoffeeOrdersProject.git
-   ```
-2. Open the `.xlsx` file in **Excel**.
-
-
 **Developed by Samir Navadiya**
